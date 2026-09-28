@@ -2609,6 +2609,14 @@
     "translation": "Could not get the instance site url"
   },
   {
+    "id": "api.health_finding.feature_disabled.app_error",
+    "translation": "The health dashboard is not enabled."
+  },
+  {
+    "id": "api.health_finding.license.app_error",
+    "translation": "The health dashboard requires an Enterprise license."
+  },
+  {
     "id": "api.image.get.app_error",
     "translation": "Requested image url cannot be parsed."
   },
@@ -7019,6 +7027,18 @@
   {
     "id": "app.group.username_conflict",
     "translation": "user with username \"{{.Username}}\" already exists."
+  },
+  {
+    "id": "app.health_finding.get.app_error",
+    "translation": "Unable to get health finding."
+  },
+  {
+    "id": "app.health_finding.get.not_found.app_error",
+    "translation": "Health finding not found."
+  },
+  {
+    "id": "app.health_finding.get_all.app_error",
+    "translation": "Unable to get health findings."
   },
   {
     "id": "app.health_finding.mute.app_error",
